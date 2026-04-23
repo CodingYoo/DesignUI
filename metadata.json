@@ -1,0 +1,6 @@
+{
+  "name": "Design Scrapbook",
+  "description": "A week-based scrapbook application that automatically generates design terminology for uploaded images using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
